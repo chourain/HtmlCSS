@@ -19,7 +19,7 @@
       文字顏色
     </td>
     <td>
-      color:red
+      color:red;color:#666666;
     </td>
   </tr>
 </table>
