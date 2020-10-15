@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>
-      color
+      background-color
     </td>
     <td>
       背景顏色
