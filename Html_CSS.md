@@ -113,7 +113,18 @@
       文字字體
     </td>
     <td>
-      font-family=Microsoft JhengHei;font-family:'微軟正黑體';
+      font-family=Microsoft JhengHei;font-family:'微軟正黑體';font-family:標楷體;
+    </td>
+  </tr>
+  <tr>
+    <td>
+      font-weight
+    </td>
+    <td>
+      文字粗細
+    </td>
+    <td>
+      font-weight:bold;
     </td>
   </tr>
   <tr>
