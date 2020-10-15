@@ -22,4 +22,59 @@
       color:red;color:#666666;
     </td>
   </tr>
+  <tr>
+    <td>
+      color
+    </td>
+    <td>
+      背景顏色
+    </td>
+    <td>
+      background-color:red;background-color:#000000;
+    </td>
+  </tr>
+  <tr>
+    <td>
+      font-size
+    </td>
+    <td>
+      文字大小
+    </td>
+    <td>
+      font-size=16px;
+    </td>
+  </tr>
+  <tr>
+    <td>
+      font-family
+    </td>
+    <td>
+      文字字體
+    </td>
+    <td>
+      font-family=Microsoft JhengHei;font-family:'微軟正黑體';
+    </td>
+  </tr>
+  <tr>
+    <td>
+      text-align
+    </td>
+    <td>
+      內容左右對齊
+    </td>
+    <td>
+      text-align=center;text-align=left;
+    </td>
+  </tr>
+  <tr>
+    <td>
+      vertical-align
+    </td>
+    <td>
+      內容上下對齊
+    </td>
+    <td>
+      vertical-align: top;vertical-align: bottom;
+    </td>
+  </tr>
 </table>
