@@ -13,6 +13,28 @@
   </tr>
   <tr>
     <td>
+      height
+    </td>
+    <td>
+      元素高度
+    </td>
+    <td>
+      height: 300px;
+    </td>
+  </tr>
+  <tr>
+    <td>
+      width
+    </td>
+    <td>
+      元素寛度
+    </td>
+    <td>
+      width: 300px;
+    </td>
+  </tr>
+  <tr>
+    <td>
       display
     </td>
     <td>
@@ -59,6 +81,17 @@
     </td>
     <td>
       background-color:red;background-color:#000000;
+    </td>
+  </tr>
+  <tr>
+    <td>
+      background-color
+    </td>
+    <td>
+      背景圖片
+    </td>
+    <td>
+      background-image: url(/img/1920_550.jpg);
     </td>
   </tr>
   <tr>
