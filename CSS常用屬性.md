@@ -1,8 +1,25 @@
 ## 文字屬性
 <table>
   <tr>
+    <th>
+      屬性名稱
+    </th>
+    <th>
+      中文說明
+    </th>
+    <th>
+      舉例說明
+    </th>
+  </tr>
+  <tr>
     <td>
-      1
+      color
+    </td>
+    <td>
+      文字顏色
+    </td>
+    <td>
+      color:red
     </td>
   </tr>
 </table>
