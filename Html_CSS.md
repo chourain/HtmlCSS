@@ -1,3 +1,31 @@
+## 常用屬性
+<table>
+  <tr>
+    <th>
+      屬性名稱
+    </th>
+    <th>
+      中文說明
+    </th>
+    <th>
+      舉例說明
+    </th>
+  </tr>
+  <tr>
+    <td>
+      display
+    </td>
+    <td>
+      元素顯示的特性
+    </td>
+    <td>
+      display:none; (隱藏)
+      display:block; (整行)
+      display:inline; (內容有多長就多長)
+    </td>
+  </tr>
+</table>
+
 ## 文字屬性
 <table>
   <tr>
