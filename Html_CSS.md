@@ -44,6 +44,7 @@
       display:none; (隱藏)
       display:block; (整行)
       display:inline; (內容有多長就多長)
+      display:inline-block; (inline的方式呈現，但同時擁有block的屬性)
     </td>
   </tr>
 </table>
@@ -147,6 +148,17 @@
     </td>
     <td>
       vertical-align: top;vertical-align: bottom;
+    </td>
+  </tr>
+  <tr>
+    <td>
+      letter-spacing
+    </td>
+    <td>
+      文字間的字距
+    </td>
+    <td>
+     letter-spacing:0.5;
     </td>
   </tr>
 </table>
