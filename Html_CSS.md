@@ -158,7 +158,7 @@
       文字間的字距
     </td>
     <td>
-     letter-spacing:0.5;
+     letter-spacing:0.5px;
     </td>
   </tr>
 </table>
